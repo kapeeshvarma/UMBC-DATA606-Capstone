@@ -99,6 +99,4 @@ Software Product Management Specialization (Coursera)
 
 #### Company Bankruptcy Prediction (ML)
 
-#### Appliance Energy Prediction (ML)
-
 #### Android App Market on Google Play Store (EDA)
