@@ -54,7 +54,7 @@ EDA was conducted to understand the dataset and uncover significant patterns and
 
 ## Machine Learning (ML) Models
 
-Several regression models were trained and evaluated to predict the energy consumption of appliances:
+Several regression models were trained, improved through hyperparameter tuning and evaluated to predict the energy consumption of appliances:
 
 1. **Linear Regression**: Provided a baseline model with moderate performance. It was straightforward but struggled with capturing non-linear relationships.
 2. **Ridge Regression**: Improved upon linear regression by adding regularization to reduce overfitting and handle multicollinearity among the predictor variables.
