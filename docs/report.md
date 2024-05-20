@@ -3,6 +3,7 @@
 ### A Regression Analysis and Prediction Project on the Energy Consumption of Home Appliances
 
 #### Vinay Kapeesh Varma Gottumukkala
+#### UMBC (Spring 2024)
 
 [Link to YouTube Video](https://youtu.be/-As_m2lnUD4)  
 [Link to Project PPT](https://github.com/kapeeshvarma/UMBC-DATA606-Capstone/blob/main/docs/Project%20PPT.pptx)  
