@@ -4,7 +4,7 @@
 
 #### Vinay Kapeesh Varma Gottumukkala
 
-[Link to YouTube Video]()  
+[Link to YouTube Video](https://youtu.be/-As_m2lnUD4)  
 [Link to Project PPT](https://github.com/kapeeshvarma/UMBC-DATA606-Capstone/blob/main/docs/Project%20PPT.pptx)  
 [Link to GitHub Project Repo](https://github.com/kapeeshvarma/UMBC-DATA606-Capstone)
 
